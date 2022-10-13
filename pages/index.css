@@ -1,2 +1,9 @@
 @import url(../vendors/normalize.css);
 @import url(../vendors/fonts/fonts.css);
+
+
+/* gallery */ 
+@import url(./blocks/gallery/gallery.css);
+@import url(./blocks/gallery/__heading/gallery__heading.css);
+@import url(./blocks/gallery/__container/gallery__container.css);
+@import url(./blocks/gallery/__container-item/gallery__container-item.css);
